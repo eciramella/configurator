@@ -7,7 +7,7 @@
 </head>
 <body>
 <h2>Configuration Service!</h2>
-<jsp:useBean id="lister" class="com.rapid7.configurator.utils.PropertyListingBean" scope="session" >
+<jsp:useBean id="lister" class="com.configurator.utils.PropertyListingBean" scope="session" >
 </jsp:useBean>
 <%
 
